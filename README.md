@@ -79,7 +79,9 @@ The data shows that certain aircraft models are consistently involved in high-fa
 
 ### **Data-Driven Recommendations**
 ✅ **Prioritize Commercial & Certified Aircraft**: Investing in well-established, certified aircraft enhances safety and reliability.
+
 ✅ **Choose Multi-Engine Aircraft**: They provide redundancy, reducing the risk of total engine failure.
+
 ✅ **Invest in Turboprop & Jet-Engine Planes**: These engines are more efficient and have lower accident rates.
 
 ## **Next Steps**
