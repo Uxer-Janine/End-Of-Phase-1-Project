@@ -1,4 +1,4 @@
-![aircraft Safety](https://www.freepik.com/free-ai-image/portrait-smiling-pilot-with-airplane-him_65384179.htm#fromView=search&page=1&position=0&uuid=bdb8fffe-c8c2-4fa9-9a3d-91c8f1baf434&query=aircraft+business)
+![aircraft Safety](images/portrait-smiling-pilot-with-airplane-him.jpg)
 
 # **Aviation Safety Analysis: Identifying Low-Risk Aircraft for Business Expansion**
 ---
@@ -20,7 +20,7 @@ This analysis serves as a valuable resource for aviation stakeholders, including
 ---
 
 ## **Business Problem** 
-![Aircraft and Money](https://www.freepik.com/free-ai-image/photorealistic-money-with-plane_94935463.htm#fromView=search&page=1&position=30&uuid=797a7872-fa02-48d2-ae41-4fd640a13b57&query=airplane+investors)
+![Aircraft and Money](images/photorealistic-money-with-plane.jpg)
 
 Our company, D&O Consulting LTD, is expanding into the aviation industry to diversify its portfolio. Specifically, we are looking to purchase and operate aircraft for both commercial and private enterprises. However, we lack expertise in aircraft safety, performance, and risk assessment, making it difficult to make informed investment decisions.
 
