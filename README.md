@@ -91,7 +91,7 @@ The data shows that certain aircraft models are consistently involved in high-fa
 Leveraging AI and machine learning will enhance data-driven risk management and improve decision-making in aviation investments.
 
 ##  Additional Resources
-**Project Notebook:** [GitHub Repository](git@github.com:Uxer-Janine/FlightRisk-Aviation-Accident-Analysis.git) 
+**Project Notebook:** [Notebook](Aviation Safety Analysis.ipynb) 
 
 **Interactive Dashboard:** [Tableau Visualization](https://public.tableau.com/views/Aviation-Accident-Analysis-2025-3-30-JRM/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
