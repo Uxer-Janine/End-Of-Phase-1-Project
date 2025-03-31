@@ -1,49 +1,75 @@
+![aircraft Safety](https://www.freepik.com/free-ai-image/portrait-smiling-pilot-with-airplane-him_65384179.htm#fromView=search&page=1&position=0&uuid=bdb8fffe-c8c2-4fa9-9a3d-91c8f1baf434&query=aircraft+business)
 
+# **Aviation Safety Analysis: Identifying Low-Risk Aircraft for Business Expansion**
+---
 
+**Author:** [Janine Makorre](janine.makorre@student.moringaschool.com)
+---
 
-# ✈️ FlightRisk: Aviation Accident Analysis
+## **Overview**
 
-## 📌 Overview
+This project analyzes aviation accident data to uncover critical safety trends, assess aircraft reliability, and provide data-driven recommendations for strategic decision-making. Through data cleaning, visualization, and statistical analysis, we identify high-risk aircraft models, evaluate engine performance, and explore factors influencing accident severity.  
 
-Aviation safety is a critical concern for manufacturers, operators, and passengers alike. This project analyzes historical aviation accident data to uncover patterns, trends, and key insights that can inform safety improvements and investment decisions.
+### **Key Highlights:**  
+✅ **Comprehensive Data Cleaning:** Removed inconsistencies, handled missing values, and ensured dataset integrity.  
+✅ **Insightful Visualizations:** Identified patterns in accident frequency, aircraft types, and injury severity.  
+✅ **Business-Oriented Recommendations:** Provided actionable insights on safer aircraft models, engine types, and operational improvements.  
 
-🚀 **Key Highlights:**
-- Identifies high-risk aircraft models and makes.
-- Explores engine type performance and safety.
-- Provides data-driven recommendations for aircraft investments and risk mitigation.
-
-📂 **Dataset:** A cleaned dataset containing accident records, aircraft specifications, and injury severities.
+This analysis serves as a valuable resource for aviation stakeholders, including airline operators, manufacturers, and safety regulators, aiming to enhance aviation safety and investment strategies.
 
 ---
 
-## 🎯 Business Understanding
+## **Business Problem** 
+![Aircraft and Money](https://www.freepik.com/free-ai-image/photorealistic-money-with-plane_94935463.htm#fromView=search&page=1&position=30&uuid=797a7872-fa02-48d2-ae41-4fd640a13b57&query=airplane+investors)
 
-### 👥 **Stakeholders**
-- **Aviation Manufacturers:** To enhance aircraft safety.
-- **Investors & Airlines:** To make informed aircraft acquisition decisions.
-- **Regulatory Authorities (FAA, NTSB):** To refine safety regulations.
+Our company, D&O Consulting LTD, is expanding into the aviation industry to diversify its portfolio. Specifically, we are looking to purchase and operate aircraft for both commercial and private enterprises. However, we lack expertise in aircraft safety, performance, and risk assessment, making it difficult to make informed investment decisions.
 
-### 🔍 **Key Business Questions**
-1. Which aircraft makes and models have the highest fatal accident rates?
-2. How do different engine types affect accident outcomes?
-3. What investment strategies can improve aviation safety?
+To mitigate risks and ensure a strategic, data-driven entry into the aviation market, we must identify which aircraft models pose the lowest risk and provide clear, actionable insights that will guide purchasing decisions for the company’s new aviation division.
+
+### **Key Stakeholders**
+- **Company Executives & Investors:** Need data-backed recommendations to justify aviation investments.
+
+- **Aviation Division Leadership:** Requires insights on which aircraft to purchase based on safety and performance.
+
+- **Regulatory & Safety Authorities:** Ensuring compliance with aviation safety standards.
+
+- **Private and Commercial Clients:** Businesses and individuals who will use the aircraft for transportation.
+
+### **Key Business Questions **
+
+1. Which aircraft models and engine types have the lowest accident rates?
+2. Are there specific aircraft features (e.g., engine type, number of engines) that contribute to lower risk?
+3. What types of aircraft should our company prioritize for investment to maximize safety and profitability?
 
 ---
 
-## 🔬 Data Understanding & Analysis
+## **Data**  
 
-### 📑 **Source of Data**
-- [National Transportation Safety Board (NTSB) Aviation Accident Database](https://www.ntsb.gov)
-- Other publicly available aviation datasets
+This project analyzes aviation accident data to identify **low-risk aircraft models** for investment. The dataset, sourced from the [National Transportation Safety Board (NTSB)](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses), contains detailed records of aviation incidents spanning **1962 to 2023**.  
 
-### 🗂️ **Data Description**
-Our dataset includes variables such as:
-- **Event Details:** Date, location, accident number.
-- **Aircraft Information:** Make, model, engine type, registration number.
-- **Injury Severity:** Fatal, serious, minor, or uninjured counts.
-- **Weather Conditions:** VFR, IFR, or unknown.
+### **Main Dataset: Aviation Accident Data**   
+This dataset consists of **88,889 records across 31 columns**, providing insights into:  
+- **Accident details** – Date, location, severity, and investigation status.  
+- **Aircraft specifications** – Make, model, engine type, and category.  
+- **Injury reports** – Number of fatalities, serious injuries, and uninjured passengers.  
+- **Operational and environmental factors** – Flight purpose, weather conditions, and aircraft damage.  
 
-### 📊 **Key Visualizations & Insights**
+### **Supporting Dataset: U.S. State Codes**   
+A small reference dataset with **62 records**, mapping full U.S. state names to their abbreviations. This was used to **standardize location data for improved analysis**.  
+
+Together, these datasets allowed us to **uncover trends in aviation safety, assess accident risks, and guide aircraft investment decisions**.
+
+---
+## **Methods**
+
+This project employs descriptive analysis to explore trends in aviation accidents over time. By examining factors such as aircraft type, engine configuration, and accident severity, we identify patterns that can help assess operational risks and aircraft safety. This analysis provides data-driven insights to support the company's decision-making in aircraft acquisition and risk management.
+
+---
+## **Results**
+Some manufacturers have significantly higher average fatality rates compared to others.
+
+
+
 
 #### 1️⃣ **Aircraft Makes & Fatality Rates**
 🖼️ *(Insert visualization of average fatal injuries by aircraft make)*
