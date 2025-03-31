@@ -94,12 +94,14 @@ Leveraging AI and machine learning will enhance data-driven risk management and 
 
 ##  Additional Resources
 **Project Notebook:** [Notebook](https://github.com/Uxer-Janine/FlightRisk-Aviation-Accident-Analysis/blob/master/Aviation%20Safety%20Analysis.ipynb) 
+**Project Presentation:** [Presentation](https://github.com/Uxer-Janine/FlightRisk-Aviation-Accident-Analysis/blob/master/presentation.pdf)
 
 **Interactive Dashboard:** [Tableau Visualization](https://public.tableau.com/views/Aviation-Accident-Analysis-2025-3-30-JRM/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 🔹 **Author:** Janine Robi Makorre  
-🔹 **Contact Info:** [My email](janine.makorre@student.moringaschool.com), [LinkedIn Profile](https://www.linkedin.com/in/janine-makorre-30a456179/) 
+🔹 **Contact Info:** [My email](janine.makorre@student.moringaschool.com)
+                    - [LinkedIn Profile](https://www.linkedin.com/in/janine-makorre-30a456179/) 
 
 🔹 **License:** MIT  
 
