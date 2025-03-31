@@ -60,12 +60,15 @@ This project employs descriptive analysis to explore trends in aviation accident
 
 ## **Results**
 The analysis shows that **smaller general aviation aircraft** have **higher average fatal injuries**, while **commercial manufacturers like Boeing and Airbus** have lower rates due to stricter safety regulations and better engineering. This helps identify **riskier aircraft makes** for investment decisions.
+
 ![Fatalities by aircraft make](images/average_fatal_injuries_by_make.png)
 
 The analysis also reveals that piston-engine aircraft have higher fatality rates, while jet and turboprop engines show better safety records. This highlights the importance of investing in multi-engine turbine aircraft for improved reliability and risk reduction.
+
 ![Accident severity by engine type](images/injuries_and_engine_type.png)
 
 The data shows that certain aircraft models are consistently involved in high-fatality incidents, suggesting a higher operational risk. Understanding these trends helps in making safer investment choices by prioritizing models with lower fatality records.
+
 ![Fatalities by aircraft model](images/fatal_injuries_by_model.png)
 
 ## **Conclusion and recommendations**
@@ -88,12 +91,14 @@ The data shows that certain aircraft models are consistently involved in high-fa
 Leveraging AI and machine learning will enhance data-driven risk management and improve decision-making in aviation investments.
 
 ##  Additional Resources
-**Project Notebook:** [GitHub Repository](git@github.com:Uxer-Janine/FlightRisk-Aviation-Accident-Analysis.git)  
+**Project Notebook:** [GitHub Repository](git@github.com:Uxer-Janine/FlightRisk-Aviation-Accident-Analysis.git)* 
+
 **Interactive Dashboard:** [Tableau Visualization](https://public.tableau.com/views/Aviation-Accident-Analysis-2025-3-30-JRM/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 
 🔹 **Author:** Janine Robi Makorre  
 🔹 **Contact Info:** [My email](janine.makorre@student.moringaschool.com), [LinkedIn Profile](https://www.linkedin.com/in/janine-makorre-30a456179/) 
+
 🔹 **License:** MIT  
 
 *This project aims to improve aviation safety through data-driven insights. Let’s make the skies safer together!*
