@@ -1,7 +1,6 @@
 ![aircraft Safety](images/portrait-smiling-pilot-with-airplane-him.jpg)
 
 # **Aviation Safety Analysis: Identifying Low-Risk Aircraft for Business Expansion**
----
 
 **Author:** [Janine Makorre](janine.makorre@student.moringaschool.com)
 ---
@@ -16,8 +15,6 @@ This project analyzes aviation accident data to uncover critical safety trends, 
 ✅ **Business-Oriented Recommendations:** Provided actionable insights on safer aircraft models, engine types, and operational improvements.  
 
 This analysis serves as a valuable resource for aviation stakeholders, including airline operators, manufacturers, and safety regulators, aiming to enhance aviation safety and investment strategies.
-
----
 
 ## **Business Problem** 
 ![Aircraft and Money](images/photorealistic-money-with-plane.jpg)
@@ -35,13 +32,11 @@ To mitigate risks and ensure a strategic, data-driven entry into the aviation ma
 
 - **Private and Commercial Clients:** Businesses and individuals who will use the aircraft for transportation.
 
-### **Key Business Questions **
+### **Key Business Questions**
 
 1. Which aircraft models and engine types have the lowest accident rates?
 2. Are there specific aircraft features (e.g., engine type, number of engines) that contribute to lower risk?
 3. What types of aircraft should our company prioritize for investment to maximize safety and profitability?
-
----
 
 ## **Data**  
 
@@ -59,65 +54,48 @@ A small reference dataset with **62 records**, mapping full U.S. state names to 
 
 Together, these datasets allowed us to **uncover trends in aviation safety, assess accident risks, and guide aircraft investment decisions**.
 
----
 ## **Methods**
 
 This project employs descriptive analysis to explore trends in aviation accidents over time. By examining factors such as aircraft type, engine configuration, and accident severity, we identify patterns that can help assess operational risks and aircraft safety. This analysis provides data-driven insights to support the company's decision-making in aircraft acquisition and risk management.
 
----
 ## **Results**
-Some manufacturers have significantly higher average fatality rates compared to others.
+The analysis shows that **smaller general aviation aircraft** have **higher average fatal injuries**, while **commercial manufacturers like Boeing and Airbus** have lower rates due to stricter safety regulations and better engineering. This helps identify **riskier aircraft makes** for investment decisions.
+[Fatalities by aircraft make](images/average_fatal_injuries_by_make.png)
 
+The analysis also reveals that piston-engine aircraft have higher fatality rates, while jet and turboprop engines show better safety records. This highlights the importance of investing in multi-engine turbine aircraft for improved reliability and risk reduction.
+[Accident severity by engine type](images/injuries_and_engine_type.png)
 
+The data shows that certain aircraft models are consistently involved in high-fatality incidents, suggesting a higher operational risk. Understanding these trends helps in making safer investment choices by prioritizing models with lower fatality records.
+[Fatalities by aircraft model](images/fatal_injuries_by_model.png)
 
-
-#### 1️⃣ **Aircraft Makes & Fatality Rates**
-🖼️ *(Insert visualization of average fatal injuries by aircraft make)*
-- This chart shows which aircraft manufacturers have the highest fatal injury averages.
-- **Key Finding:** Some manufacturers have significantly higher average fatality rates compared to others.
-
-#### 2️⃣ **Accident Severity by Engine Type**
-🖼️ *(Insert visualization comparing engine types with accident outcomes)*
-- Jet and turboprop engines generally show lower fatality rates than piston engines.
-- **Key Finding:** Multi-engine aircraft provide greater redundancy and safety.
-
-#### 3️⃣ **Total Fatal Injuries by Aircraft Model**
-🖼️ *(Insert visualization ranking models by total fatal injuries)*
-- Certain models consistently appear in high-fatality incidents.
-- **Key Finding:** Some aircraft models may be riskier investments.
-
----
-
-## 📢 Conclusion & Recommendations
-
-### ✅ **Summary of Findings**
+## **Conclusion and recommendations**
+### **Summary of findings** 
 - **Amateur-built aircraft tend to have higher accident rates** than certified commercial models.
 - **Single-engine aircraft are more vulnerable** to fatal accidents compared to multi-engine planes.
 - **Turboprop and jet engines offer better reliability and safety** than piston engines.
 
-### 🚀 **Data-Driven Recommendations**
+### **Data-Driven Recommendations**
 ✅ **Prioritize Commercial & Certified Aircraft**: Investing in well-established, certified aircraft enhances safety and reliability.
 ✅ **Choose Multi-Engine Aircraft**: They provide redundancy, reducing the risk of total engine failure.
 ✅ **Invest in Turboprop & Jet-Engine Planes**: These engines are more efficient and have lower accident rates.
 
----
+## **Next Steps**
+* Machine Learning for Risk Prediction – Build models to predict accident severity based on aircraft specs and conditions.
+* AI for Accident Reports – Use NLP to analyze pilot narratives for hidden safety insights.
+* Real-Time Safety Monitoring – Develop an AI dashboard to track trends and manufacturer reliability.
+* Automated Risk Scoring – Create a tool to rate aircraft safety for smarter investment decisions.
 
-## 📎 Additional Resources
-🔗 **Project Notebook:** [GitHub Repository](#) *(Insert link to Jupyter Notebook)*  
-📊 **Interactive Dashboard:** [Tableau Visualization](#) *(Insert Tableau link if applicable)*
+Leveraging AI and machine learning will enhance data-driven risk management and improve decision-making in aviation investments.
 
----
+##  Additional Resources
+**Project Notebook:** [GitHub Repository](#) *(Aviation Safety Analysis.ipynb)*  
+**Interactive Dashboard:** [Tableau Visualization](#) *(https://public.tableau.com/views/Aviation-Accident-Analysis-2025-3-30-JRM/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
-## 🚀 Future Work
-🔍 Investigate regional accident trends.  
-📊 Explore pilot experience and accident correlations.  
-✈️ Analyze impact of weather conditions on accident rates.
 
----
-
-🔹 **Author:** [Your Name]  
-🔹 **Contact:** [Your Email]  
+🔹 **Author:** [Janine Robi Makorre]  
+🔹 **[My email]**(janine.makorre@student.moringaschool.com) 
+🔹 **[LinkedIn Profile]** (https://www.linkedin.com/in/janine-makorre-30a456179/) 
 🔹 **License:** MIT  
 
-*This project aims to improve aviation safety through data-driven insights. Let’s make the skies safer together!* ✈️
+*This project aims to improve aviation safety through data-driven insights. Let’s make the skies safer together!*
 
